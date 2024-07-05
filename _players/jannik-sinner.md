@@ -1,0 +1,14 @@
+---
+first_name: Jannik
+last_name: Sinner
+ioc: ITA
+dob: 16-08-2001
+height: 188.0
+hand: R
+rank: 2
+titles: [{'name': 'NextGen Finals', 'level': 'F', 'date': '2019', 'score': '4-2 4-1 4-2', 'runner_up': 'Alex De Minaur', 'runner_up_slug': 'alex-de-minaur', 'abbr': 'NE', 'surface': 'hard'}, {'name': 'Sofia', 'level': 'A', 'date': '2020', 'score': '6-4 3-6 7-6(3)', 'runner_up': 'Vasek Pospisil', 'runner_up_slug': 'vasek-pospisil', 'abbr': 'SO', 'surface': 'hard'}, {'name': 'Great Ocean Road Open', 'level': 'A', 'date': '2021', 'score': '7-6(4) 6-4', 'runner_up': 'Stefano Travaglia', 'runner_up_slug': 'stefano-travaglia', 'abbr': 'GR', 'surface': 'hard'}, {'name': 'Washington', 'level': 'A', 'date': '2021', 'score': '7-5 4-6 7-5', 'runner_up': 'Mackenzie Mcdonald', 'runner_up_slug': 'mackenzie-mcdonald', 'abbr': 'WA', 'surface': 'hard'}, {'name': 'Sofia', 'level': 'A', 'date': '2021', 'score': '6-3 6-4', 'runner_up': 'Gael Monfils', 'runner_up_slug': 'gael-monfils', 'abbr': 'SO', 'surface': 'hard'}, {'name': 'Antwerp', 'level': 'A', 'date': '2021', 'score': '6-2 6-2', 'runner_up': 'Diego Schwartzman', 'runner_up_slug': 'diego-schwartzman', 'abbr': 'AN', 'surface': 'hard'}, {'name': 'Umag', 'level': 'A', 'date': '2022', 'score': '6-7(5) 6-1 6-1', 'runner_up': 'Carlos Alcaraz', 'runner_up_slug': 'carlos-alcaraz', 'abbr': 'UM', 'surface': 'clay'}, {'name': 'Montpellier', 'level': 'A', 'date': '2023', 'score': '7-6(3) 6-3', 'runner_up': 'Maxime Cressy', 'runner_up_slug': 'maxime-cressy', 'abbr': 'MO', 'surface': 'hard'}, {'name': 'Canada Masters', 'level': 'M', 'date': '2023', 'score': '6-4 6-1', 'runner_up': 'Alex De Minaur', 'runner_up_slug': 'alex-de-minaur', 'abbr': 'CA', 'surface': 'hard'}, {'name': 'Beijing', 'level': 'A', 'date': '2023', 'score': '7-6(2) 7-6(2)', 'runner_up': 'Daniil Medvedev', 'runner_up_slug': 'daniil-medvedev', 'abbr': 'BE', 'surface': 'hard'}, {'name': 'Vienna', 'level': 'A', 'date': '2023', 'score': '7-6(7) 4-6 6-3', 'runner_up': 'Daniil Medvedev', 'runner_up_slug': 'daniil-medvedev', 'abbr': 'VI', 'surface': 'hard'}, {'name': 'Australian Open', 'level': 'G', 'date': '2024', 'score': '3-6 3-6 6-4 6-4 6-3', 'runner_up': 'Daniil Medvedev', 'runner_up_slug': 'daniil-medvedev', 'abbr': 'AU', 'surface': 'hard'}, {'name': 'Rotterdam', 'level': 'A', 'date': '2024', 'score': '7-5 6-4', 'runner_up': 'Alex De Minaur', 'runner_up_slug': 'alex-de-minaur', 'abbr': 'RO', 'surface': 'hard'}, {'name': 'Miami Masters', 'level': 'M', 'date': '2024', 'score': '6-3 6-1', 'runner_up': 'Grigor Dimitrov', 'runner_up_slug': 'grigor-dimitrov', 'abbr': 'MI', 'surface': 'hard'}]
+no_titles: 14
+layout: player
+slug: jannik-sinner
+
+---

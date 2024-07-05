@@ -1,7 +1,16 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+
+title: Blogging Like a Hacker
+---
+
+
+
+<ul>
+{% for player in site.players %}
+  <li>
+    <a href="{{player.url}}">
+      {{player.lastname}}, {{player.firstname}}
+    </a>
+  </li>
+{% endfor %}
+</ul>

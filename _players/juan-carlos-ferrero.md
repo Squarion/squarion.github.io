@@ -1,0 +1,14 @@
+---
+first_name: Juan Carlos
+last_name: Ferrero
+ioc: ESP
+dob: 12-02-1980
+height: 183.0
+hand: R
+rank: 0
+titles: [{'name': 'Dubai', 'level': 'A', 'date': '2001', 'score': '6-2 3-1 RET', 'runner_up': 'Marat Safin', 'runner_up_slug': 'marat-safin', 'abbr': 'DU', 'surface': 'hard'}, {'name': 'Estoril', 'level': 'A', 'date': '2001', 'score': '7-6(3) 4-6 6-3', 'runner_up': 'Felix Mantilla', 'runner_up_slug': 'felix-mantilla', 'abbr': 'ES', 'surface': 'clay'}, {'name': 'Barcelona', 'level': 'A', 'date': '2001', 'score': '4-6 7-5 6-3 3-6 7-5', 'runner_up': 'Carlos Moya', 'runner_up_slug': 'carlos-moya', 'abbr': 'BA', 'surface': 'clay'}, {'name': 'Rome Masters', 'level': 'M', 'date': '2001', 'score': '3-6 6-1 2-6 6-4 6-2', 'runner_up': 'Gustavo Kuerten', 'runner_up_slug': 'gustavo-kuerten', 'abbr': 'RO', 'surface': 'clay'}, {'name': 'Monte Carlo Masters', 'level': 'M', 'date': '2002', 'score': '7-5 6-3 6-4', 'runner_up': 'Carlos Moya', 'runner_up_slug': 'carlos-moya', 'abbr': 'MO', 'surface': 'clay'}, {'name': 'Hong Kong', 'level': 'A', 'date': '2002', 'score': '6-3 1-6 7-6(4)', 'runner_up': 'Carlos Moya', 'runner_up_slug': 'carlos-moya', 'abbr': 'HO', 'surface': 'hard'}, {'name': 'Monte Carlo Masters', 'level': 'M', 'date': '2003', 'score': '6-2 6-2', 'runner_up': 'Guillermo Coria', 'runner_up_slug': 'guillermo-coria', 'abbr': 'MO', 'surface': 'clay'}, {'name': 'Valencia', 'level': 'A', 'date': '2003', 'score': '6-2 6-4', 'runner_up': 'Christophe Rochus', 'runner_up_slug': 'christophe-rochus', 'abbr': 'VA', 'surface': 'clay'}, {'name': 'Roland Garros', 'level': 'G', 'date': '2003', 'score': '6-1 6-3 6-2', 'runner_up': 'Martin Verkerk', 'runner_up_slug': 'martin-verkerk', 'abbr': 'RO', 'surface': 'clay'}, {'name': 'Madrid Masters', 'level': 'M', 'date': '2003', 'score': '6-3 6-4 6-3', 'runner_up': 'Nicolas Massu', 'runner_up_slug': 'nicolas-massu', 'abbr': 'MA', 'surface': 'hard'}, {'name': 'Casablanca', 'level': 'A', 'date': '2009', 'score': '6-4 7-5', 'runner_up': 'Florent Serra', 'runner_up_slug': 'florent-serra', 'abbr': 'CA', 'surface': 'clay'}, {'name': 'Costa Do Sauipe', 'level': 'A', 'date': '2010', 'score': '6-1 6-0', 'runner_up': 'Lukasz Kubot', 'runner_up_slug': 'lukasz-kubot', 'abbr': 'CO', 'surface': 'clay'}, {'name': 'Buenos Aires', 'level': 'A', 'date': '2010', 'score': '5-7 6-4 6-3', 'runner_up': 'David Ferrer', 'runner_up_slug': 'david-ferrer', 'abbr': 'BU', 'surface': 'clay'}, {'name': 'Umag', 'level': 'A', 'date': '2010', 'score': '6-4 6-4', 'runner_up': 'Potito Starace', 'runner_up_slug': 'potito-starace', 'abbr': 'UM', 'surface': 'clay'}, {'name': 'Stuttgart', 'level': 'A', 'date': '2011', 'score': '6-4 6-0', 'runner_up': 'Pablo Andujar', 'runner_up_slug': 'pablo-andujar', 'abbr': 'ST', 'surface': 'clay'}]
+no_titles: 15
+layout: player
+slug: juan-carlos-ferrero
+
+---

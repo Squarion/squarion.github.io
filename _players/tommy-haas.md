@@ -1,0 +1,14 @@
+---
+first_name: Tommy
+last_name: Haas
+ioc: GER
+dob: 03-04-1978
+height: 188.0
+hand: R
+rank: 0
+titles: [{'name': 'Adelaide', 'level': 'A', 'date': '2001', 'score': '6-3 6-1', 'runner_up': 'Nicolas Massu', 'runner_up_slug': 'nicolas-massu', 'abbr': 'AD', 'surface': 'hard'}, {'name': 'Long Island', 'level': 'A', 'date': '2001', 'score': '6-3 3-6 6-2', 'runner_up': 'Pete Sampras', 'runner_up_slug': 'pete-sampras', 'abbr': 'LO', 'surface': 'hard'}, {'name': 'Vienna', 'level': 'A', 'date': '2001', 'score': '6-2 7-6(6) 6-4', 'runner_up': 'Guillermo Canas', 'runner_up_slug': 'guillermo-canas', 'abbr': 'VI', 'surface': 'hard'}, {'name': 'Stuttgart Masters', 'level': 'M', 'date': '2001', 'score': '6-2 6-2 6-2', 'runner_up': 'Max Mirnyi', 'runner_up_slug': 'max-mirnyi', 'abbr': 'ST', 'surface': 'hard'}, {'name': 'Houston', 'level': 'A', 'date': '2004', 'score': '6-3 6-4', 'runner_up': 'Andy Roddick', 'runner_up_slug': 'andy-roddick', 'abbr': 'HO', 'surface': 'clay'}, {'name': 'Los Angeles', 'level': 'A', 'date': '2004', 'score': '7-6(6) 6-4', 'runner_up': 'Nicolas Kiefer', 'runner_up_slug': 'nicolas-kiefer', 'abbr': 'LO', 'surface': 'hard'}, {'name': 'Dusseldorf', 'level': 'A', 'date': '2005', 'score': '6-4 6-3', 'runner_up': 'Gaston Gaudio', 'runner_up_slug': 'gaston-gaudio', 'abbr': 'DU', 'surface': 'clay'}, {'name': 'Delray Beach', 'level': 'A', 'date': '2006', 'score': '6-3 3-6 7-6(5)', 'runner_up': 'Xavier Malisse', 'runner_up_slug': 'xavier-malisse', 'abbr': 'DE', 'surface': 'hard'}, {'name': 'Memphis', 'level': 'A', 'date': '2006', 'score': '6-3 6-2', 'runner_up': 'Robin Soderling', 'runner_up_slug': 'robin-soderling', 'abbr': 'ME', 'surface': 'hard'}, {'name': 'Los Angeles', 'level': 'A', 'date': '2006', 'score': '4-6 7-5 6-3', 'runner_up': 'Dmitry Tursunov', 'runner_up_slug': 'dmitry-tursunov', 'abbr': 'LO', 'surface': 'hard'}, {'name': 'Memphis', 'level': 'A', 'date': '2007', 'score': '6-3 6-2', 'runner_up': 'Andy Roddick', 'runner_up_slug': 'andy-roddick', 'abbr': 'ME', 'surface': 'hard'}, {'name': 'Halle', 'level': 'A', 'date': '2009', 'score': '6-3 6-7(4) 6-1', 'runner_up': 'Novak Djokovic', 'runner_up_slug': 'novak-djokovic', 'abbr': 'HA', 'surface': 'grass'}, {'name': 'Halle', 'level': 'A', 'date': '2012', 'score': '7-6(5) 6-4', 'runner_up': 'Roger Federer', 'runner_up_slug': 'roger-federer', 'abbr': 'HA', 'surface': 'grass'}, {'name': 'Munich', 'level': 'A', 'date': '2013', 'score': '6-3 7-6(3)', 'runner_up': 'Philipp Kohlschreiber', 'runner_up_slug': 'philipp-kohlschreiber', 'abbr': 'MU', 'surface': 'clay'}, {'name': 'Vienna', 'level': 'A', 'date': '2013', 'score': '6-3 4-6 6-4', 'runner_up': 'Robin Haase', 'runner_up_slug': 'robin-haase', 'abbr': 'VI', 'surface': 'hard'}]
+no_titles: 15
+layout: player
+slug: tommy-haas
+
+---

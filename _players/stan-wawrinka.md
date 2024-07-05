@@ -1,0 +1,14 @@
+---
+first_name: Stan
+last_name: Wawrinka
+ioc: SUI
+dob: 28-03-1985
+height: 183.0
+hand: R
+rank: 98
+titles: [{'name': 'Umag', 'level': 'A', 'date': '2006', 'score': '6-6(1) RET', 'runner_up': 'Novak Djokovic', 'runner_up_slug': 'novak-djokovic', 'abbr': 'UM', 'surface': 'clay'}, {'name': 'Casablanca', 'level': 'A', 'date': '2010', 'score': '6-2 6-3', 'runner_up': 'Victor Hanescu', 'runner_up_slug': 'victor-hanescu', 'abbr': 'CA', 'surface': 'clay'}, {'name': 'Chennai', 'level': 'A', 'date': '2011', 'score': '7-5 4-6 6-1', 'runner_up': 'Xavier Malisse', 'runner_up_slug': 'xavier-malisse', 'abbr': 'CH', 'surface': 'hard'}, {'name': 'Estoril', 'level': 'A', 'date': '2013', 'score': '6-1 6-4', 'runner_up': 'David Ferrer', 'runner_up_slug': 'david-ferrer', 'abbr': 'ES', 'surface': 'clay'}, {'name': 'Chennai', 'level': 'A', 'date': '2013', 'score': '7-5 6-2', 'runner_up': 'Edouard Roger Vasselin', 'runner_up_slug': 'edouard-roger-vasselin', 'abbr': 'CH', 'surface': 'hard'}, {'name': 'Australian Open', 'level': 'G', 'date': '2014', 'score': '6-3 6-2 3-6 6-3', 'runner_up': 'Rafael Nadal', 'runner_up_slug': 'rafael-nadal', 'abbr': 'AU', 'surface': 'hard'}, {'name': 'Monte Carlo Masters', 'level': 'M', 'date': '2014', 'score': '4-6 7-6(5) 6-2', 'runner_up': 'Roger Federer', 'runner_up_slug': 'roger-federer', 'abbr': 'MO', 'surface': 'clay'}, {'name': 'Chennai', 'level': 'A', 'date': '2015', 'score': '6-3 6-4', 'runner_up': 'Aljaz Bedene', 'runner_up_slug': 'aljaz-bedene', 'abbr': 'CH', 'surface': 'hard'}, {'name': 'Rotterdam', 'level': 'A', 'date': '2015', 'score': '4-6 6-3 6-4', 'runner_up': 'Tomas Berdych', 'runner_up_slug': 'tomas-berdych', 'abbr': 'RO', 'surface': 'hard'}, {'name': 'Roland Garros', 'level': 'G', 'date': '2015', 'score': '4-6 6-4 6-3 6-4', 'runner_up': 'Novak Djokovic', 'runner_up_slug': 'novak-djokovic', 'abbr': 'RO', 'surface': 'clay'}, {'name': 'Tokyo', 'level': 'A', 'date': '2015', 'score': '6-2 6-4', 'runner_up': 'Benoit Paire', 'runner_up_slug': 'benoit-paire', 'abbr': 'TO', 'surface': 'hard'}, {'name': 'Chennai', 'level': 'A', 'date': '2016', 'score': '6-3 7-5', 'runner_up': 'Borna Coric', 'runner_up_slug': 'borna-coric', 'abbr': 'CH', 'surface': 'hard'}, {'name': 'Dubai', 'level': 'A', 'date': '2016', 'score': '6-4 7-6(13)', 'runner_up': 'Marcos Baghdatis', 'runner_up_slug': 'marcos-baghdatis', 'abbr': 'DU', 'surface': 'hard'}, {'name': 'Geneva', 'level': 'A', 'date': '2016', 'score': '6-4 7-6(11)', 'runner_up': 'Marin Cilic', 'runner_up_slug': 'marin-cilic', 'abbr': 'GE', 'surface': 'clay'}, {'name': 'US Open', 'level': 'G', 'date': '2016', 'score': '6-7(1) 6-4 7-5 6-3', 'runner_up': 'Novak Djokovic', 'runner_up_slug': 'novak-djokovic', 'abbr': 'US', 'surface': 'hard'}, {'name': 'Geneva', 'level': 'A', 'date': '2017', 'score': '4-6 6-3 6-3', 'runner_up': 'Mischa Zverev', 'runner_up_slug': 'mischa-zverev', 'abbr': 'GE', 'surface': 'clay'}]
+no_titles: 16
+layout: player
+slug: stan-wawrinka
+
+---

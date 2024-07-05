@@ -1,0 +1,14 @@
+---
+first_name: Gustavo
+last_name: Kuerten
+ioc: BRA
+dob: 10-09-1976
+height: 190.0
+hand: R
+rank: 0
+titles: [{'name': 'Santiago', 'level': 'A', 'date': '2000', 'score': '7-6(3) 6-3', 'runner_up': 'Mariano Puerta', 'runner_up_slug': 'mariano-puerta', 'abbr': 'SA', 'surface': 'clay'}, {'name': 'Hamburg Masters', 'level': 'M', 'date': '2000', 'score': '6-4 5-7 6-4 5-7 7-6(3)', 'runner_up': 'Marat Safin', 'runner_up_slug': 'marat-safin', 'abbr': 'HA', 'surface': 'clay'}, {'name': 'Roland Garros', 'level': 'G', 'date': '2000', 'score': '6-2 6-3 2-6 7-6(6)', 'runner_up': 'Magnus Norman', 'runner_up_slug': 'magnus-norman', 'abbr': 'RO', 'surface': 'clay'}, {'name': 'Indianapolis', 'level': 'A', 'date': '2000', 'score': '3-6 7-6(2) 7-6(2)', 'runner_up': 'Marat Safin', 'runner_up_slug': 'marat-safin', 'abbr': 'IN', 'surface': 'hard'}, {'name': 'Masters Cup', 'level': 'F', 'date': '2000', 'score': '6-4 6-4 6-4', 'runner_up': 'Andre Agassi', 'runner_up_slug': 'andre-agassi', 'abbr': 'MA', 'surface': 'hard'}, {'name': 'Buenos Aires', 'level': 'A', 'date': '2001', 'score': '6-1 6-3', 'runner_up': 'Jose Acasuso', 'runner_up_slug': 'jose-acasuso', 'abbr': 'BU', 'surface': 'clay'}, {'name': 'Acapulco', 'level': 'A', 'date': '2001', 'score': '6-4 6-2', 'runner_up': 'Galo Blanco', 'runner_up_slug': 'galo-blanco', 'abbr': 'AC', 'surface': 'clay'}, {'name': 'Monte Carlo Masters', 'level': 'M', 'date': '2001', 'score': '6-3 6-2 6-4', 'runner_up': 'Hicham Arazi', 'runner_up_slug': 'hicham-arazi', 'abbr': 'MO', 'surface': 'clay'}, {'name': 'Roland Garros', 'level': 'G', 'date': '2001', 'score': '6-7(3) 7-5 6-2 6-0', 'runner_up': 'Alex Corretja', 'runner_up_slug': 'alex-corretja', 'abbr': 'RO', 'surface': 'clay'}, {'name': 'Stuttgart', 'level': 'A', 'date': '2001', 'score': '6-3 6-2 6-4', 'runner_up': 'Guillermo Canas', 'runner_up_slug': 'guillermo-canas', 'abbr': 'ST', 'surface': 'clay'}, {'name': 'Cincinnati Masters', 'level': 'M', 'date': '2001', 'score': '6-1 6-3', 'runner_up': 'Patrick Rafter', 'runner_up_slug': 'patrick-rafter', 'abbr': 'CI', 'surface': 'hard'}, {'name': 'Costa Do Sauipe', 'level': 'A', 'date': '2002', 'score': '6-7(4) 7-5 7-6(2)', 'runner_up': 'Guillermo Coria', 'runner_up_slug': 'guillermo-coria', 'abbr': 'CO', 'surface': 'hard'}, {'name': 'Auckland', 'level': 'A', 'date': '2003', 'score': '6-3 7-5', 'runner_up': 'Dominik Hrbaty', 'runner_up_slug': 'dominik-hrbaty', 'abbr': 'AU', 'surface': 'hard'}, {'name': 'St. Petersburg', 'level': 'A', 'date': '2003', 'score': '6-4 6-3', 'runner_up': 'Sargis Sargsian', 'runner_up_slug': 'sargis-sargsian', 'abbr': 'ST', 'surface': 'hard'}, {'name': 'Costa Do Sauipe', 'level': 'A', 'date': '2004', 'score': '3-6 6-2 6-3', 'runner_up': 'Agustin Calleri', 'runner_up_slug': 'agustin-calleri', 'abbr': 'CO', 'surface': 'clay'}]
+no_titles: 15
+layout: player
+slug: gustavo-kuerten
+
+---

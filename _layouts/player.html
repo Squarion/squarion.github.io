@@ -1,0 +1,95 @@
+---
+---
+{% assign player = site.data.players[page.key] %}
+
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Tennis</title>
+
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.typekit.net/vjm6rex.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="sidebar">
+      <img src="../assets/img/logo.svg" alt="Logo" class="logo" />
+      <div class="mobile-header">
+        Browse players
+      </div>
+      <div class="search">
+        <input type="text" onkeyup="search()" placeholder="Search..." class="search-bar" id="search-bar" />
+      </div>
+      <div class="players">
+        <div class="fade up">
+        </div>
+        <ul id="player-list">
+        {% assign players = site.players | sort: "last_name" %}
+        {% for player in players %}
+          <li id="{{player.slug}}">
+            <a href="{{player.url}}" class="player">
+              {{player.last_name}}, {{player.first_name}}
+            </a>
+          </li>
+        {% endfor %}
+        </ul>
+        <div class="fade down">
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="header">
+        <div class="left">
+          <h1 class="player" id="name">
+            <span class="firstname">{{page.first_name}}</span> <span class="lastname">{{page.last_name}}</span>
+          </h1>
+          <div class="info">
+            <span class="ioc">{{page.ioc}}</span> <span class="dot">&#8226;</span> <span class="dob">{{page.dob}}</span> <span class="dot">&#8226;</span> <span class="wins">{{page.no_titles}} title{% if page.no_titles != 1 %}s{% endif %}</span>
+          </div>
+        </div>
+        <div class="rank">
+          {% if page.rank > 0 %}
+            <span class="no">#</span><span class="value">{{page.rank}}</span>
+          {% endif %}
+        </div>
+      </div>
+      <div class="main">
+        <div class="sort" id="category-sort">
+          <div class="button pressed cat" onclick="categorySort(this)" sort="level"></div>
+          <div class="button sur" onclick="categorySort(this)" sort="surface"></div>
+          <div class="button az" onclick="categorySort(this)" sort="name"></div>
+          <div class="button time" onclick="categorySort(this)" sort="date"></div>
+
+        </div>
+        <div class="titles" id="titles">
+
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<script>
+  let currentPlayer = "{{page.slug}}";
+  let players = JSON.parse('{{site.data.players | jsonify}}');
+  console.log('{{page.titles | jsonify}}');
+  let titles = JSON.parse('{{page.titles | jsonify}}');
+</script>
+
+<script src="../assets/js/script.js"></script>
+
+</body>
+
+</html>

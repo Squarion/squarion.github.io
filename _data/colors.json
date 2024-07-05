@@ -1,0 +1,55 @@
+{
+  "wimbledon": {
+    "color": "00703C",
+    "abbr": "WI"
+  },
+  "us open": {
+    "color": "00288C",
+    "abbr": "US"
+  },
+  "australian open": {
+    "color": "0073B2",
+    "abbr": "AO"
+  },
+  "roland garros": {
+    "color": "C85A19",
+    "abbr": "RG"
+  },
+  "indian wells": {
+    "color": "00915a",
+    "abbr": "IW"
+  },
+  "miami": {
+    "color": "c15715",
+    "abbr": "MI"
+  },
+  "monte carlo": {
+    "color": "D66900",
+    "abbr": "MC"
+  },
+  "madrid": {
+    "color": "ff671d",
+    "abbr": "MA"
+  },
+  "rome": {
+    "color": "e30613",
+    "abbr": "RO"
+  },
+  "canada": {
+    "color": "00344e",
+    "abbr": "CA"
+  },
+  "cincinnati": {
+    "color": "475c94",
+    "abbr": "CI"
+  },
+  "shanghai": {
+    "color": "a88218",
+    "abbr": "SH"
+  },
+  "paris": {
+    "color": "263140",
+    "abbr": "PA"
+  }
+
+}

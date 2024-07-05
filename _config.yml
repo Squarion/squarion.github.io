@@ -1,0 +1,8 @@
+collections:
+  players:
+    output: true
+    permalink: /:name
+    sort_by: lastname
+
+exclude: [v1, matches]
+host: 0.0.0.0

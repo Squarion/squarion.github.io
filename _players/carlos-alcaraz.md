@@ -1,0 +1,14 @@
+---
+first_name: Carlos
+last_name: Alcaraz
+ioc: ESP
+dob: 05-05-2003
+height: 185.0
+hand: R
+rank: 3
+titles: [{'name': 'Umag', 'level': 'A', 'date': '2021', 'score': '6-2 6-2', 'runner_up': 'Richard Gasquet', 'runner_up_slug': 'richard-gasquet', 'abbr': 'UM', 'surface': 'clay'}, {'name': 'NextGen Finals', 'level': 'F', 'date': '2021', 'score': '4-3(5) 4-2 4-2', 'runner_up': 'Sebastian Korda', 'runner_up_slug': 'sebastian-korda', 'abbr': 'NE', 'surface': 'hard'}, {'name': 'Rio de Janeiro', 'level': 'A', 'date': '2022', 'score': '6-4 6-2', 'runner_up': 'Diego Schwartzman', 'runner_up_slug': 'diego-schwartzman', 'abbr': 'RI', 'surface': 'clay'}, {'name': 'Miami Masters', 'level': 'M', 'date': '2022', 'score': '7-5 6-4', 'runner_up': 'Casper Ruud', 'runner_up_slug': 'casper-ruud', 'abbr': 'MI', 'surface': 'hard'}, {'name': 'Barcelona', 'level': 'A', 'date': '2022', 'score': '6-3 6-2', 'runner_up': 'Pablo Carreno Busta', 'runner_up_slug': 'pablo-carreno-busta', 'abbr': 'BA', 'surface': 'clay'}, {'name': 'Madrid Masters', 'level': 'M', 'date': '2022', 'score': '6-3 6-1', 'runner_up': 'Alexander Zverev', 'runner_up_slug': 'alexander-zverev', 'abbr': 'MA', 'surface': 'clay'}, {'name': 'Us Open', 'level': 'G', 'date': '2022', 'score': '6-4 2-6 7-6(1) 6-3', 'runner_up': 'Casper Ruud', 'runner_up_slug': 'casper-ruud', 'abbr': 'US', 'surface': 'hard'}, {'name': 'Buenos Aires', 'level': 'A', 'date': '2023', 'score': '6-3 7-5', 'runner_up': 'Cameron Norrie', 'runner_up_slug': 'cameron-norrie', 'abbr': 'BU', 'surface': 'clay'}, {'name': 'Indian Wells Masters', 'level': 'M', 'date': '2023', 'score': '6-3 6-2', 'runner_up': 'Daniil Medvedev', 'runner_up_slug': 'daniil-medvedev', 'abbr': 'IN', 'surface': 'hard'}, {'name': 'Barcelona', 'level': 'A', 'date': '2023', 'score': '6-3 6-4', 'runner_up': 'Stefanos Tsitsipas', 'runner_up_slug': 'stefanos-tsitsipas', 'abbr': 'BA', 'surface': 'clay'}, {'name': 'Madrid Masters', 'level': 'M', 'date': '2023', 'score': '6-4 3-6 6-3', 'runner_up': 'Jan Lennard Struff', 'runner_up_slug': 'jan-lennard-struff', 'abbr': 'MA', 'surface': 'clay'}, {'name': 'Queens Club', 'level': 'A', 'date': '2023', 'score': '6-4 6-4', 'runner_up': 'Alex De Minaur', 'runner_up_slug': 'alex-de-minaur', 'abbr': 'QU', 'surface': 'grass'}, {'name': 'Wimbledon', 'level': 'G', 'date': '2023', 'score': '1-6 7-6(6) 6-1 3-6 6-4', 'runner_up': 'Novak Djokovic', 'runner_up_slug': 'novak-djokovic', 'abbr': 'WI', 'surface': 'grass'}, {'name': 'Indian Wells Masters', 'level': 'M', 'date': '2024', 'score': '7-6(5) 6-1', 'runner_up': 'Daniil Medvedev', 'runner_up_slug': 'daniil-medvedev', 'abbr': 'IN', 'surface': 'hard'}]
+no_titles: 14
+layout: player
+slug: carlos-alcaraz
+
+---

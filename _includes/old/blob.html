@@ -1,0 +1,7 @@
+<div class="win {{win.font}}" style="background-color: #{{win.color}}; box-shadow: 0 2px 0 {{win.shadow}};">
+  <span class="abbr">{{win.abbr}}</span>
+  <div class="content" style="box-shadow: 0 2px 0 {{win.shadow}};">
+    <span class="year">{{win.date | slice: 0, 4}}</span><span class="name">{{win.name}}</span><div class="break"></div>
+    <span class="score">{{win.score}}</span><span class="vs">vs.</span><a href="{{win.loser-slug}}" class="opponent">{{win.loser}}&nbsp;&#x203A;</a>
+  </div>
+</div>

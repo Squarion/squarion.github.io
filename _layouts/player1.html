@@ -1,0 +1,141 @@
+---
+---
+{% assign player = site.data.players[page.key] %}
+
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Tennis</title>
+
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <div class="spacer">
+      </div>
+    <h1 class="player" id="name">
+      <div class="name">
+        <span class="firstname">{{player.first_name}}</span>
+        <span class="lastname">{{player.last_name}}</span>
+      </div>
+      <div class="info">
+        <span class="ioc">{{player.ioc}}</span>
+        <span class="dob">{{player.dob}}</span>
+
+      </div>
+
+    </h1>
+    <div class="overview">
+      <div class="block type" id="G">
+        <h2>Grand Slams <span class="win-count">({{player.G.count}})</span></h2>
+        {% include category.html data=player.G.tourneys %}
+      </div>
+
+      <div class="block type" id="M">
+        <h2>ATP Masters 1000 <span class="win-count">({{player.M.count}})</span></h2>
+        {% include category.html data=player.M.tourneys %}
+      </div>
+
+      <div class="block type" id="A">
+        <h2>ATP 500 & 250 <span class="win-count">({{player.A.count}})</span></h2>
+        {% include category.html data=player.A.tourneys %}
+      </div>
+
+      <div class="block type" id="F">
+        <h2>Tour Finals <span class="win-count">({{player.F.count}})</span></h2>
+        {% include category.html data=player.F.tourneys %}
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <span>Last update: November 2023</span>
+  </footer>
+
+
+
+<script>
+
+
+  var player;
+  var countTournaments = false;
+
+  function setup() {
+
+  }
+
+  setup();
+
+  var openedTourney = null;
+
+  for (win of document.getElementsByClassName('win')) {
+
+    win.querySelector('.abbr').addEventListener("click", function() {
+      let delta = 0;
+
+      console.log(openedTourney);
+
+      if (openedTourney == this) {
+        openedTourney.parentElement.classList.remove('open');
+        openedTourney = null;
+      } else {
+        if (openedTourney != null) {
+          openedTourney.parentElement.classList.remove('open');
+          openedTourney = null;
+          delta = 0;
+        }
+
+        openedTourney = this;
+        setTimeout(function() {
+            openedTourney.parentElement.classList.toggle('open');
+          }, delta);
+      }
+
+      console.log(openedTourney);
+
+    });
+  }
+
+
+  function clearAll() {
+    for (let wins of document.getElementsByClassName('wins')) {
+      wins.innerHTML = '';
+    }
+  }
+
+  var alphabetical = false;
+
+
+
+  /*document.getElementById('open').addEventListener('click', function() {
+    for (win of document.getElementById('G').getElementsByClassName('win')) {
+      win.classList.add('open');
+    }
+  });
+
+  document.getElementById('close').addEventListener('click', function() {
+    for (win of document.getElementById('G').getElementsByClassName('win')) {
+      win.classList.remove('open');
+    }
+  });*/
+
+
+
+
+
+  </script>
+
+</body>
+
+</html>

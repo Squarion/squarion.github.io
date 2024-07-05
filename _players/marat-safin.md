@@ -1,0 +1,14 @@
+---
+first_name: Marat
+last_name: Safin
+ioc: RUS
+dob: 27-01-1980
+height: 193.0
+hand: R
+rank: 0
+titles: [{'name': 'Barcelona', 'level': 'A', 'date': '2000', 'score': '6-3 6-3 6-4', 'runner_up': 'Juan Carlos Ferrero', 'runner_up_slug': 'juan-carlos-ferrero', 'abbr': 'BA', 'surface': 'clay'}, {'name': 'Mallorca', 'level': 'A', 'date': '2000', 'score': '6-4 6-3', 'runner_up': 'Mikael Tillstrom', 'runner_up_slug': 'mikael-tillstrom', 'abbr': 'MA', 'surface': 'clay'}, {'name': 'Canada Masters', 'level': 'M', 'date': '2000', 'score': '6-2 6-3', 'runner_up': 'Harel Levy', 'runner_up_slug': 'harel-levy', 'abbr': 'CA', 'surface': 'hard'}, {'name': 'US Open', 'level': 'G', 'date': '2000', 'score': '6-4 6-3 6-3', 'runner_up': 'Pete Sampras', 'runner_up_slug': 'pete-sampras', 'abbr': 'US', 'surface': 'hard'}, {'name': 'Tashkent', 'level': 'A', 'date': '2000', 'score': '6-3 6-4', 'runner_up': 'Davide Sanguinetti', 'runner_up_slug': 'davide-sanguinetti', 'abbr': 'TA', 'surface': 'hard'}, {'name': 'St. Petersburg', 'level': 'A', 'date': '2000', 'score': '2-6 6-4 6-4', 'runner_up': 'Dominik Hrbaty', 'runner_up_slug': 'dominik-hrbaty', 'abbr': 'ST', 'surface': 'hard'}, {'name': 'Paris Masters', 'level': 'M', 'date': '2000', 'score': '3-6 7-6(7) 6-4 3-6 7-6(8)', 'runner_up': 'Mark Philippoussis', 'runner_up_slug': 'mark-philippoussis', 'abbr': 'PA', 'surface': 'carpet'}, {'name': 'Tashkent', 'level': 'A', 'date': '2001', 'score': '6-2 6-2', 'runner_up': 'Yevgeny Kafelnikov', 'runner_up_slug': 'yevgeny-kafelnikov', 'abbr': 'TA', 'surface': 'hard'}, {'name': 'St. Petersburg', 'level': 'A', 'date': '2001', 'score': '3-6 6-3 6-3', 'runner_up': 'Rainer Schuettler', 'runner_up_slug': 'rainer-schuettler', 'abbr': 'ST', 'surface': 'hard'}, {'name': 'Paris Masters', 'level': 'M', 'date': '2002', 'score': '7-6(4) 6-0 6-4', 'runner_up': 'Lleyton Hewitt', 'runner_up_slug': 'lleyton-hewitt', 'abbr': 'PA', 'surface': 'carpet'}, {'name': 'Beijing', 'level': 'A', 'date': '2004', 'score': '7-6(4) 7-5', 'runner_up': 'Mikhail Youzhny', 'runner_up_slug': 'mikhail-youzhny', 'abbr': 'BE', 'surface': 'hard'}, {'name': 'Madrid Masters', 'level': 'M', 'date': '2004', 'score': '6-2 6-4 6-3', 'runner_up': 'David Nalbandian', 'runner_up_slug': 'david-nalbandian', 'abbr': 'MA', 'surface': 'hard'}, {'name': 'Paris Masters', 'level': 'M', 'date': '2004', 'score': '6-3 7-6(5) 6-3', 'runner_up': 'Radek Stepanek', 'runner_up_slug': 'radek-stepanek', 'abbr': 'PA', 'surface': 'carpet'}, {'name': 'Australian Open', 'level': 'G', 'date': '2005', 'score': '1-6 6-3 6-4 6-4', 'runner_up': 'Lleyton Hewitt', 'runner_up_slug': 'lleyton-hewitt', 'abbr': 'AU', 'surface': 'hard'}]
+no_titles: 14
+layout: player
+slug: marat-safin
+
+---
